@@ -1,0 +1,5 @@
+{
+  "name": "IRDA - Research Assistant",
+  "description": "Intelligent Research Discovery Assistant utilizing Gemini AI to accelerate scientific discovery through automated summarization, knowledge graph generation, and hypothesis formation.",
+  "requestFramePermissions": []
+}
